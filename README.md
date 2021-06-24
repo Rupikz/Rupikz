@@ -1,6 +1,6 @@
-## Hi! 💁‍♂️
+## Nikolay Kydryavcev
 
-Junior fullstack developer
+Backend Node.js developer (Nest.js)
 
 ### Things I code with
 
