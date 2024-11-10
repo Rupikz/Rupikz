@@ -1,8 +1,11 @@
 ## Nikolay Kydryavcev
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-026e00?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![Typescript](https://img.shields.io/badge/-Typescript-2f74c0?style=for-the-badge&logo=Typescript&logoColor=ffffff)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-000000?style=for-the-badge&logo=Nestjs&logoColor=ea2845)
